@@ -6,5 +6,5 @@ Estudiante de Análisis y Desarrollo de Software en el SENA y desarrolladora apa
 
 Sobre mí
 
-soy una desarrolladora que me enfoco en comprender la arquitectura de los sistemas y el flujo de los datos antes de pasar a la implementación. Mi aprendizaje gira alrededor del análisis de requerimientos, la normalización de bases de datos y la construcción de soluciones organizadas, eficientes y escalables..
+soy una desarrolladora que me enfoco en comprender la arquitectura de los sistemas y el flujo de los datos antes de pasar a la implementación. Mi aprendizaje gira alrededor del análisis de requerimientos, la normalización de bases de datos y la construcción de soluciones organizadas, eficientes y escalables...
 
